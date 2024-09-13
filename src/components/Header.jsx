@@ -76,7 +76,7 @@ export default function Header({cart, removeFromCart, increaseQuantity, reduceQu
                       </table>
 
                       <p className="text-end">
-                        Total pagar: <span className="fw-bold">€{cartTotal}</span>
+                        Total pagar: <span className="fw-bold">{cartTotal}€</span>
                       </p>
                     </> 
                   )}
