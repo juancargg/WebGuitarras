@@ -16,7 +16,7 @@ export default function Header({cart, removeFromCart, increaseQuantity, reduceQu
               <a href="index.html">
                 <img
                   className="img-fluid"
-                  src="./public/img/logo.png"
+                  src="/img/logo.png"
                   alt="imagen logo"
                 />
               </a>
@@ -25,7 +25,7 @@ export default function Header({cart, removeFromCart, increaseQuantity, reduceQu
               <div className="carrito">
                 <img
                   className="img-fluid"
-                  src="./public/img/carrito.png"
+                  src="/img/carrito.png"
                   alt="imagen carrito"
                 />
                 <div id="carrito" className="bg-white p-3">
