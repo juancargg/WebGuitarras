@@ -1,4 +1,4 @@
-GuitarraWeb - Tienda de Guitarras
+#GuitarraWeb - Tienda de Guitarras
 Bienvenido a GuitarraWeb, una página web para la venta de guitarras, desarrollada como proyecto de aprendizaje utilizando React y Vite. Este proyecto incorpora funcionalidades como un carrito de compras persistente (utilizando localStorage), manejo de estados con useState y efectos con useEffect.
 
 🖥️ Despliegue
